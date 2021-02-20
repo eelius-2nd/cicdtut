@@ -1,6 +1,6 @@
 import pytest
 
-def capitalize_case(text:str):
+def capitalize_casee(text:str):
     if not isinstance(text, str):
         raise TypeError("Please provide a string")
     
